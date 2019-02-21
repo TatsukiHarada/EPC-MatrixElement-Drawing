@@ -1,2 +1,2 @@
 # EPC-MatrixElement-Drawing
-How to draw matrix elements of Electron-Phonon-Coupling(EPC) calculated by Quantum ESPRESSO
+Here is a way to draw matrix elements of electron-phonon-coupling(EPC) calculated by Quantum ESPRESSO
